@@ -22,14 +22,14 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "E-Commerce"
-        desc: "Oferujemy profesjonalne rozwiązania dla branży E_Commerce"
+        desc: "Oferujemy profesjonalne rozwiązania dla branży E-Commerce"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Internet"
         desc: "Z ŻulNet dostęp do nielimitowanych możliwości internetu jest taki jak nigdy dotąd!"
         icon: fas fa-laptop
       - title: "Decentralizacja"
         desc: "Decentralizacja dzięki ZulNet nigdy nie była taka prosta!"
-        icon: fab fa-server
+        icon: fas fa-server
 
   portfolio:
     title: "Portfolio"
