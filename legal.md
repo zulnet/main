@@ -15,4 +15,4 @@ Nie zbieramy żadnych personalnych informacji. Opróż żuli do rejestrowania si
 
 **CONTACT US**
 
-For more information about our privacy practices or if you have questions, please contact us by email at ssij@mipyton.ga</a>.
+For more information about our privacy practices or if you have questions, please contact us by email at ssij@mipyton.ga.
