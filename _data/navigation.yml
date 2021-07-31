@@ -13,12 +13,6 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "About"
-      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
-      section: contact
 en-US:
   <<: *DEFAULT_EN
 en-CA:
