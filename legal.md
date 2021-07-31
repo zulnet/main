@@ -12,9 +12,6 @@ Polityka prywatności ŻulNet
 
 Nie zbieramy żadnych personalnych informacji. Opróż żuli do rejestrowania simek.
 
-**CHANGES**
-
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
 
 **CONTACT US**
 
