@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Z ŻulNet dostęp do nielimitowanych możliwości internetu jest taki jak nigdy dotąd!"
         icon: fas fa-laptop
       - title: "Decentralizacja"
-        desc: "Decentralizacja dzięki ZulNet nigdy nie była taka prosta!"
+        desc: "Decentralizacja dzięki ŻulNet nigdy nie była taka prosta!"
         icon: fas fa-server
 
   portfolio:
